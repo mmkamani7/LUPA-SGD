@@ -2,7 +2,7 @@
 
 This is an official repository for this paper accepted to the NeurIPS 2019:
 
-Haddadpour, Farzin, et al. "Local SGD with periodic averaging: Tighter analysis and adaptive synchronization." Advances in Neural Information Processing Systems. 2019.
+Haddadpour, F., Kamani, M. M., Mahdavi, M., & Cadambe, V. "Local SGD with periodic averaging: Tighter analysis and adaptive synchronization." Advances in Neural Information Processing Systems. 2019.
 
 ## Instruction
 You can download epsilon dataset from: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html
